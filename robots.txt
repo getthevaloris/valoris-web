@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://valoristoken.vercel.app/sitemap.xml
+Sitemap: https://valoris-web-swart.vercel.app/sitemap.xml
